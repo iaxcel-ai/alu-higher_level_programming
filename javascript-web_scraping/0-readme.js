@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/c/Program Files/nodejs/node
 
 const fs = require('fs');
 
